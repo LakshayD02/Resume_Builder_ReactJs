@@ -16,3 +16,5 @@ Chakra UI: Harnessing Chakra UI's modular component library for consistent and v
 React Router: Enabling smooth navigation within the application through declarative routing.
 React Icons: Accessing a vast library of icons to enhance visual representation within the application.
 React HTML to PDF: Facilitating seamless conversion of HTML content into PDF documents for easy sharing and printing.
+
+Deployed Link - https://resume-builder-lakshay.vercel.app/
